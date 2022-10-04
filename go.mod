@@ -1,4 +1,4 @@
-module go-client
+module lister
 
 go 1.19
 
